@@ -1,0 +1,2 @@
+# Term-Deposit-Subscribtion-Prediction
+The objective of this project is to build machine learning model, train it using the input variables. Finally make the model to predict whether a customer will subscribe to term deposit or note. In this project logistic regression algorithm is used to build the model. Seaborn heatmap function is used to find the correlation between the features. Also using classification report the quality of the prediction is calculated. The report measures the matric precision, recall and f1-score.
